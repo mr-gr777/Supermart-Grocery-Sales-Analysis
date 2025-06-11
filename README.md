@@ -31,13 +31,11 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, Google Colab
 ---
 
 ## 🔮 Machine Learning Models Used
-| Model             | R² Score | MSE (Error) |
-|------------------|----------|-------------|
-| Linear Regression| 0.72     | ~XXXX       |
-| Random Forest     | 0.87     | ~XXXX       |
-| XGBoost           | **0.89** | ~XXXX       |
-
-> Replace `XXXX` with your actual model MSE results
+| Model             | R² Score |
+|------------------|----------|
+| Linear Regression| 0.72     | 
+| Random Forest     | 0.87     | 
+| XGBoost           | **0.89** | 
 
 ### ➕ Feature Engineering
 - Extracted `Order Month`, `Year`, `Day`
